@@ -1,6 +1,8 @@
 ### 
 
-<h1 align="center">Hi there 👋🏻 I'm Daniel</h1>
+<h1 align="center">Hi there! 👋🏻 
+  
+  I'm Daniel</h1>
 <h3 align="center">Software Developer</h3>
 
 </p>
